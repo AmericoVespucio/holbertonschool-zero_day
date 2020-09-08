@@ -1,1 +1,1 @@
-just git
+sjust git
